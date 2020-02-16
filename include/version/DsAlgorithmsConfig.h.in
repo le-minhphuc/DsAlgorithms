@@ -1,0 +1,3 @@
+// the configured options and settings for project DsAlgorithms
+#define DsAlgorithms_VERSION_MAJOR @DsAlgorithms_VERSION_MAJOR@ // CMake will fill in these values
+#define DsAlgorithms_VERSION_MINOR @DsAlgorithms_VERSION_MINOR@ // CMake will fill in these values
